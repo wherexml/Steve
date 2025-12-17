@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(claude mcp add chrome-devtools -s user -- npx -y chrome-devtools-mcp@latest)",
+      "Bash(claude mcp add:*)",
+      "Bash(claude mcp:*)",
+      "Bash(claude config:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

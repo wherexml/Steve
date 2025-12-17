@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "7e3e0212f4a22dcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "6166908cb843c633",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "898130f2bd06211b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b0ba867635c81f6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "74ad1a4b46e8e127",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0201f6a9c92c1129",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "c96ee707a0d662ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "512579056df33d9d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "27dcdd7f3cc14e76",
+    "type": "split",
+    "children": [
+      {
+        "id": "3371b996c67b885d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5609e080e85fd66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "2b9fa8268b036fd5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Code/iTerm配置与分析过程.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "iTerm配置与分析过程 的出链列表"
+            }
+          },
+          {
+            "id": "d5f46c7609a23f49",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "8c95fceda10cdc89",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "d22b3ef3dca3e6d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Code/iTerm配置与分析过程.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "iTerm配置与分析过程 的大纲"
+            }
+          },
+          {
+            "id": "5e80ec0e2d81e84f",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "business/亚马逊白牌CNC思路.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "脚注"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "audio-recorder:开始/结束录音": false,
+      "random-note:开始漫游笔记": false
+    }
+  },
+  "active": "898130f2bd06211b",
+  "lastOpenFiles": [
+    "code/iTerm配置与分析过程.md",
+    "home/科学上网折腾指南.md",
+    "business/亚马逊白牌CNC思路.md",
+    "assets/img",
+    "assets",
+    "code/code",
+    "code/claude",
+    "home",
+    "diary/December/12-16.md",
+    "diary/December",
+    "diary",
+    "code/claude/Claude Code 多环境切换方案总结.md",
+    "code",
+    "business",
+    "Code/Claude Code 多环境切换方案总结.md",
+    "Diary/December/12-16.md",
+    "README.md",
+    "Code/iTerm配置与分析过程.md",
+    "Recording 20251216121459.m4a"
+  ]
+}

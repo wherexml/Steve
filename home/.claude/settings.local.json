@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat:*)",
+      "Bash(grep:*)",
+      "Bash(open:*)",
+      "Bash(echo:*)",
+      "Bash(brew:*)",
+      "Bash(chmod:*)",
+      "Bash(./setup_iterm_font.sh:*)",
+      "Bash(conda config:*)",
+      "Bash(source:*)",
+      "Bash(curl:*)",
+      "Bash(git clone:*)",
+      "Bash(exec:*)",
+      "Bash(ls:*)"
+    ]
+  }
+}
